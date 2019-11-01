@@ -1,0 +1,72 @@
+.my_meta_control
+{ overflow: auto; }
+
+.ct_filmes, .ct_series
+{ display: none; }
+
+.dis_in
+{ display: inline-block !important; }
+
+.mb_10 
+{ margin-bottom: 10px;}
+
+.d_fall 
+{ display: block;}
+
+.my_meta_control .description
+{ display:none; }
+ 
+.my_meta_control label
+{ display:block; font-weight:bold; margin:6px; margin-bottom:0; margin-top:12px; }
+ 
+.my_meta_control label span
+{ display:inline; font-weight:normal; }
+ 
+.my_meta_control span
+{ color:#999; display:block; }
+ 
+.my_meta_control textarea, .my_meta_control input[type='text']
+{ margin-bottom:3px; width:100%; }
+
+.my_meta_control input[type='radio']
+{height: 16px !important;}
+ 
+.my_meta_control h4
+{ color:#999; font-size:1em; margin:15px 6px; text-transform:uppercase; }
+
+.my_meta_control select 
+{ width: 49%; height: 40px; }
+
+.my_meta_control input 
+{ height: 40px; margin: 1px 0 !important;}
+
+.float_l
+{float: left;}
+
+.float_r
+{float: right;}
+
+.w_65 
+{ width: 65%!important; }
+.w_49
+{ width: 49%!important; }
+.w_34
+{ width: 34%!important; }
+
+.mb_ova3
+{ overflow: auto; margin-bottom: 3px; }
+
+.mx_plans
+{ width: 70% !important; height: 24px !important; }
+
+.chec_b
+{ height: 16px !important; }
+
+.mlr_5px
+{ margin: 0 5px; }
+
+.box_ove_top
+{ margin: 60px auto !important; }
+
+.bg_fall_spost
+{ border: 1px solid #e5e5e5 !important;background: #fff !important;border-radius: 0 !important; }
